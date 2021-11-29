@@ -1,4 +1,6 @@
 El suicidio: un tema tabú que impacta cada vez más en España
+
+
 Estamos mal y España no lo quiere reconocer. Cada año son más los casos de suicidio en nuestro país y cada vez son más las personas con problemas mentales que tienen miedo a enfrentarse a un psicólogo por el qué dirán. Otras, se atreven a poner su cabeza en manos de un profesional, pero su economía no se lo permite. Mientras, el suicidio sigue siendo un tema tabú en nuestra sociedad. 
 
 ![](imagen-principal.png)
