@@ -1,7 +1,7 @@
 El suicidio: un tema tabú que impacta cada vez más en España
 Estamos mal y España no lo quiere reconocer. Cada año son más los casos de suicidio en nuestro país y cada vez son más las personas con problemas mentales que tienen miedo a enfrentarse a un psicólogo por el qué dirán. Otras, se atreven a poner su cabeza en manos de un profesional, pero su economía no se lo permite. Mientras, el suicidio sigue siendo un tema tabú en nuestra sociedad. 
 
-![](IMAGEN PRINCIPAL.png)
+![](imagen-pricipal.png)
 
 ¿Alguien se ha parado a pensar cuántas personas se han suicidado en España en 2020? Según datos del INE, nada más y nada menos que 3.941 personas, 11 al día, una cada dos horas y 18 minutos. Nos convertimos así en el quinto país de la Unión Europea con mayor número de defunciones por suicidio y autolesiones por debajo de Alemania, Francia, Polonia, e Italia y se convierte esta en la primera causa de muerte no natural de nuestro país. Cabe destacar, que aunque estos países tienen un número más elevado de suicidios desde el 2011 han ido reduciendo su número de forma considerable, sin embargo, en España se ha mantenido o ha subido.
 En 2020 murieron 493.776 personas en España y un 0,80% de esas muertes tuvieron como causa el suicidio, pero esto no es una excepción, desde hace cinco años el número de suicidios no ha dejado de subir. Con relación a 2019, en 2020, hubo un 7,4% más suicidios que se reflejaron en 270 muertes más en un solo año. ¿Dónde están las medidas necesarias para solucionar esta situación? ¿Por qué se esconde este tema en casa, en los colegios, en los institutos, en los medios, en el propio Gobierno, entre la ociedad? Los datos gritan una solución urgente.
