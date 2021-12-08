@@ -1,4 +1,4 @@
-*Aixa Rodríguez Carballo
+*Aixa Rodríguez Carballo*
 ##ACTIVIDAD 2##
 
 Para la actividad 3 se ordenaron los datos en Open Rifen. Primeramente, reordenando las columnas por nombre, fecha y tuits y poniéndole a cada columna su formato adecuado. Además, se creó una columna por cada nombre para que todo quedase separado tal y como mostrabas en la clase.
