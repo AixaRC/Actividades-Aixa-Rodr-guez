@@ -1,2 +1,0 @@
-# Actividades-Aixa-Rodriguez
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
