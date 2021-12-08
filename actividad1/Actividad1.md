@@ -1,6 +1,6 @@
-﻿**Aixa Rodríguez Carballo**
+#Aixa Rodríguez Carballo
 
-**ACTIVIDAD 1**
+##ACTIVIDAD 1
 
 Uno de los artículos que más me ha llamado la atención es el que han publicado en Newtral para hacer una recopilación después de que se cumpliesen [10 años después del fin de la violencia de ETA](https://www.newtral.es/aniversario-presos-eta-carceles/20211020/). Es uno de los que más me gusta porque en primer lugar es un tema que me interesa mucho a nivel profesional y en segundo lugar porque hace una recopilación de datos que impactan al usuario y que ayudan a entender la noticia. Otra de las cosas positivas es que cuenta con un gráfico interactivo para que el lector pueda ver los datos reflejados. 
 
