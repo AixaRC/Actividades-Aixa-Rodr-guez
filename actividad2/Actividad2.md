@@ -1,6 +1,6 @@
-#Aixa Rodríguez Carballo
+# Aixa Rodríguez Carballo
 
-##ACTIVIDAD 2
+## ACTIVIDAD 2
 
 El [artículo seleccionado](https://www.newtral.es/especiales/menores-extranjeros-no-acompanados-europa/) pertenece [Newtral](https://www.newtral.es/), una web que recoge reportajes y noticias de datos sobre diferentes temáticas. Con respecto a su diseño y usabilidad cabe destacar que es una web sencilla de utilizar, pero a la vez muy completa y dinámica. Algo muy positivo es que la portada no está repleta de información, sino que aparecen titulares separados a lo largo de toda la web que se pueden ir clicando o simplemente con pasar el cursor sobre ellos aparece una imagen detrás en relación con el tema. Además, a medida que hacemos scroll aparece un reportaje/noticia destacado de la sección y debajo otras opciones relacionadas. Cuenta también con muchas opciones en las que reparte la información, ya que hay una opción de reportajes, otra de especial, zona de verificación, nuevo, especiales, transparencia, topics, etc.
 
