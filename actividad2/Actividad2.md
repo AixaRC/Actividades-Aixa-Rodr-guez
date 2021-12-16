@@ -10,7 +10,7 @@ Con respecto al artículo elegido, “Menores no acompañados en Europa”, cabe
 
 Como se puede observar aparece primero el nombre de la web, a continuación la sección en la que está (especiales) y por último el título del reportaje separado por guiones tal y como vimos en clase que era lo más correcto para nombrar los artículos. Además, podemos asegurar también que se cumple la validación según los estándares de la web a través de la herramienta w3c validator. Lo único que se refleja es un pequeño error en una imagen incrustada.
 
-![](actividad-2-foto.png)
+![Imagen w3c validator](actividad-2-foto.png)
 
 Con respecto al título del reportaje, se trata de un titular sencillo e informativo que resumen a la perfección el tema sobre el que se va a hablar, aunque desde mi punto de vista hubiese incluido un titular más impactante. Algo que también resulta muy útil es que cada tema que se introduce incluye un titulillo o un destacado que da pie para saber de qué se va a hablar.
 
